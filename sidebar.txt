@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gew:home|Door43 (gew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gew|d43-gew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gew/archive/master.zip|d43-gew.zip]]
+
+**Recent Changes**
+{{changes>ns = gew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gew|Ethnologue data]]
+
